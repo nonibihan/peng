@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -sL https://gitlab.com/ciut1/capt/-/raw/main/ga | bash
+curl -sL https://github.com/nonibihan/tah/raw/refs/heads/main/gga | bash
